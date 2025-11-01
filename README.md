@@ -1,2 +1,3 @@
-# Smile
-smile foundation . i built this landing page using html , css and javascript .
+
+# SMILE-FOUNDATION
+>>>>>>> 76f327b3d4fde018dc48e52acefbf1608e8ae47a
