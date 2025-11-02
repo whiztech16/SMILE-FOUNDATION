@@ -503,6 +503,17 @@ ul li a:hover {
 .footer_card-info:hover {
     color: #fff;
 }
+.developed-by{
+color: white;
+  text-align: center;
+
+
+  width: 100%;        
+  flex-basis: 100%;   
+   padding: 20px 0;   
+  margin-top: 20px;  
+  
+}
 
 /* --- Footer section ends --- */
 
